@@ -1,4 +1,4 @@
-# shopping-cart
+# shopping-cart-server
 
 # Tech stack
 
